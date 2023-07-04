@@ -1,0 +1,16 @@
+{
+  "name": "playwright-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "dependencies": {
+    "tesseract.js": "^4.1.1"
+  }
+}
